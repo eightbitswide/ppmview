@@ -1,5 +1,6 @@
-1 Y=100 : REM DOWNSCREEN STARTING POS.
+1 DEFINT A-Z
 2 ON ERROR GOTO 600
+3 Y=100 : REM DOWNSCREEN STARTING POS.
 10 REM  ___ ___ __  ____   _____ _____      __
 20 REM | _ \ _ \  \/  \ \ / /_ _| __\ \    / /
 30 REM |  _/  _/ |\/| |\ V / | || _| \ \/\/ / 
